@@ -4,4 +4,4 @@ A throwaway file for practising branches, commits, and a deliberate merge
 conflict. Edit the line below as the README instructs.
 
 
-My favourite language is c+++
+My favourite language is c++
