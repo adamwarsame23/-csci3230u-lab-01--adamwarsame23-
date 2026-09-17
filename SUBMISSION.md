@@ -5,15 +5,15 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Adam Warsame
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+Essentially learned some commands and different features of github that I might have been rusty on 
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git commit --amend is something i discovered recently you use it essentially when you made a typo in a message or forgot to include a file
 
 ## Evidence (links)
 
